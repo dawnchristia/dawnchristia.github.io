@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on 騎士與吟遊詩人</title>
+    <link>https://dawnchristia.github.io/posts/</link>
+    <description>Recent content in Posts on 騎士與吟遊詩人</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 19:01:49 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-HK</language>
+    <lastBuildDate>Sun, 29 Aug 2021 19:03:38 +0800</lastBuildDate><atom:link href="https://dawnchristia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test2</title>
-      <link>http://example.org/posts/test2/</link>
-      <pubDate>Sun, 29 Aug 2021 19:01:49 +0800</pubDate>
+      <title>Test</title>
+      <link>https://dawnchristia.github.io/posts/test/</link>
+      <pubDate>Sun, 29 Aug 2021 19:03:38 +0800</pubDate>
       
-      <guid>http://example.org/posts/test2/</guid>
-      <description>&lt;h1 id=&#34;mbti編碼方式容易誤導&#34;&gt;MBTI編碼方式容易誤導&lt;/h1&gt;
-&lt;p&gt;當年跟友人課後無聊一起做測驗，結果她是INFJ，而我是INFP，這就是接觸MBTI的契機。就分析來說，彼此都覺得大部份能對上。奇怪的是，兩人性格差别其實頗大，甚至交流都很困難（或者是單純不好相處XD），雖說再相似的性格也有可能打起來，卻因而對這一字母之差感到疑惑。&lt;/p&gt;</description>
+      <guid>https://dawnchristia.github.io/posts/test/</guid>
+      <description>no need title?
+testing page</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>http://example.org/posts/home/</link>
+      <link>https://dawnchristia.github.io/posts/home/</link>
       <pubDate>Sun, 29 Aug 2021 18:03:38 +0800</pubDate>
       
-      <guid>http://example.org/posts/home/</guid>
+      <guid>https://dawnchristia.github.io/posts/home/</guid>
       <description>Hello world testing page</description>
     </item>
     

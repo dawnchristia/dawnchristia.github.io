@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>示例-demo on 騎士與吟遊詩人</title>
+    <link>https://dawnchristia.github.io/categories/%E7%A4%BA%E4%BE%8B-demo/</link>
+    <description>Recent content in 示例-demo on 騎士與吟遊詩人</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-HK</language>
+    <lastBuildDate>Sun, 29 Aug 2021 19:03:38 +0800</lastBuildDate><atom:link href="https://dawnchristia.github.io/categories/%E7%A4%BA%E4%BE%8B-demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://dawnchristia.github.io/posts/test/</link>
+      <pubDate>Sun, 29 Aug 2021 19:03:38 +0800</pubDate>
+      
+      <guid>https://dawnchristia.github.io/posts/test/</guid>
+      <description>no need title?
+testing page</description>
+    </item>
+    
+  </channel>
+</rss>
